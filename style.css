@@ -444,6 +444,7 @@ nav .caret {
     margin-right: auto;
     margin-top: 10px;
     margin-bottom: 20px;
+    z-index: 2;
 }
 
 .mg-lg {
@@ -713,6 +714,7 @@ p {
 h2 {
     font-size: 20px;
     line-height: 1.4em;
+    background: none;
 }
 
 h3 {
