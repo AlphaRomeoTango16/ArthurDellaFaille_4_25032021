@@ -453,6 +453,7 @@ nav .caret {
 
 #bloc-5-cta h2 {
     font-weight: bold;
+    font-size: 18px;
 }
 
 .btn {
@@ -688,6 +689,12 @@ a {
 
 p {
     font-size: 11px;
+}
+
+@media (max-width: 767px) {
+    p {
+        font-size: 12px;
+    }
 }
 
 .tight-width-whitespace {
